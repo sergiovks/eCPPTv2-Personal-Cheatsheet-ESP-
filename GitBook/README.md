@@ -1,2 +1,0 @@
-# eCPPTv2 Cheatsheet
-
